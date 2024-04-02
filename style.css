@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(250, 170, 250);
+}
+
+.container img {
+    margin-right: 10px;
+    vertical-align: middle;
+}
